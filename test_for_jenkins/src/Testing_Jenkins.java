@@ -39,7 +39,7 @@ public class Testing_Jenkins {
 
         System.out.println("A: \n");
         t.printArray(a);
-asdasd
+
         int[] b = t.sortList(a);
 
         System.out.println("\nB: \n");
